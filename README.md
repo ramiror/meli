@@ -2,11 +2,13 @@
 
 ## Grabador audio DVR-613
 
+![Grabador audio DVR-613](https://i.imgur.com/GpxuR8o.png =150x)
+
 ### Publis de otros
 
 | Publi | Precio
 | ----- | ------
-| [88530053](https://articulo.mercadolibre.com.ar/MLA-88530053) | 5000
+| [885300530](https://articulo.mercadolibre.com.ar/MLA-885300530) | 5000
 | [1105243866](https://articulo.mercadolibre.com.ar/MLA-1105243866) | 2500 
 
 ### Mi publi
@@ -16,6 +18,8 @@
 | [XX](https://example.com) | 4000 |
 
 ## Cámara SONY CiberShot DSC-W530
+
+![Cámara SONY CiberShot DSC-W530](https://sp.sony-europe.com/da/300/121899.jpeg)
 
 ### Publis de otros
 
@@ -33,6 +37,9 @@
 
 ## Linterna Excel Energizer
 
+![Linterna Excel Energizer](https://i.imgur.com/ofkl83c.jpg =200x)
+
+
 ### Publis de otros
 
 | Publi | Precio | Obs |
@@ -47,6 +54,8 @@
 
 ## Estuche cámara
 
+![Estuche cámara](https://i.imgur.com/XclDwhV.jpg =200x)
+
 ### Publis de otros
 
 | Publi | Precio | Obs |
@@ -60,6 +69,8 @@
 | [XX](https://example.com) | 1000 |
 
 ## Cámara Fujifilm Finepix JX 500
+
+![Cámara Fujifilm Finepix JX 500](https://i.imgur.com/gOngGnx.png =200x)
 
 ### Publis de otros
 
