@@ -59,20 +59,6 @@
 | ----- | ------ |
 | [XX](https://example.com) | 1000 |
 
-## Estuche cámara
-
-### Publis de otros
-
-| Publi | Precio | Obs |
-| ----- | ------ | --- |
-| [841972841](https://articulo.mercadolibre.com.ar/MLA-841972841) | 1650 | similar |
-
-### Mi publi
-
-| Publi | Precio |
-| ----- | ------ |
-| [XX](https://example.com) | 1000 |
-
 ## Cámara Fujifilm Finepix JX 500
 
 ### Publis de otros
@@ -86,4 +72,4 @@
 
 | Publi | Precio |
 | ----- | ------ |
-| [XX](https://example.com) | 1000 |
+| [XX](https://example.com) | 5000 |
