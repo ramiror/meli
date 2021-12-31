@@ -2,7 +2,7 @@
 
 ## Grabador audio DVR-613
 
-![Grabador audio DVR-613](https://i.imgur.com/GpxuR8o.png =150x285)
+![](https://i.imgur.com/okjqMIt.png)
 
 ### Publis de otros
 
@@ -37,8 +37,7 @@
 
 ## Linterna Excel Energizer
 
-![Linterna Excel Energizer](https://i.imgur.com/ofkl83c.jpg =200x)
-
+![](https://i.imgur.com/y4AZ4Wl.jpg)
 
 ### Publis de otros
 
@@ -54,7 +53,7 @@
 
 ## Estuche cámara
 
-![Estuche cámara](https://i.imgur.com/XclDwhV.jpg =200x)
+![](https://i.imgur.com/6jMsNq1.jpg)
 
 ### Publis de otros
 
@@ -70,7 +69,7 @@
 
 ## Cámara Fujifilm Finepix JX 500
 
-![Cámara Fujifilm Finepix JX 500](https://i.imgur.com/gOngGnx.png =200x)
+![](https://i.imgur.com/DuQOb2D.png)
 
 ### Publis de otros
 
