@@ -2,7 +2,7 @@
 
 ## Grabador audio DVR-613
 
-![Grabador audio DVR-613](https://i.imgur.com/GpxuR8o.png =150x)
+![Grabador audio DVR-613](https://i.imgur.com/GpxuR8o.png =150x285)
 
 ### Publis de otros
 
